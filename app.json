@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "SVGtest2",
-    "slug": "SVGtest2",
+    "name": "SVGtest",
+    "slug": "SVGtest",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
